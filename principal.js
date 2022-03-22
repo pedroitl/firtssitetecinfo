@@ -8,3 +8,6 @@ function trocaBanner() {
 }
 
 setInterval(trocaBanner, 2000);
+
+
+
